@@ -1,0 +1,78 @@
+body {
+    background-color: green;
+    color:white
+
+}
+
+h1 {
+
+    text-align:center;
+    font-size: x-large;
+
+}
+
+em {
+    font-size: x-large;
+
+}
+
+p {
+
+     text-align: center;
+     font-size: larger;
+
+}
+
+#Enormossauro {
+    width: 40%;
+    height: 400px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 20px; ;
+    border: 10px solid black
+
+}
+
+#Rath {
+
+    width: 40%;
+    height: 400px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 20px; ;
+    border: 10px solid black
+
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: black;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #585555}
+
+.button:active {
+  background-color: #585555;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+#família_do_curso2 {
+    
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 20px;
+    border: 10px solid black
+
+}

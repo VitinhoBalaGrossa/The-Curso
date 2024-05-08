@@ -1,0 +1,170 @@
+#vasco {
+  width: 30%;
+  height: -15%;
+  position:absolute;
+  left: 2px;
+  bottom: 2%;
+  border-radius: 20px;
+  border: 10px solid black
+}
+
+#texto-vasco {
+    position: absolute; top: 34%; left: 16%; transform: translate(-50%, -50%);
+}
+
+#gremio {
+    width: 30%;
+    border-radius: 20px;
+    border: 10px solid black;
+    height: -15%;
+    position:absolute;
+    right: 34%;
+    bottom: 2%;
+}
+
+#texto-gremio {
+    position: absolute; top: 32%; left: 50%; transform: translate(-50%, -50%);
+    width: 20%;
+}
+
+#palmeiras {
+    width: 30%;
+    border-radius: 20px;
+    border: 10px solid black;
+    height: -15%;
+    position:absolute;
+    right: 1px;
+    bottom: 2%;
+}
+
+#texto-palmeiras {
+    position: absolute; top: 32%; left: 84%; transform: translate(-50%, -50%);
+    width: 23%;
+}
+
+#flamengo {
+    width: 30%;
+    border-radius: 20px;
+    border: 10px solid black;
+    height: -15%;
+    position:absolute;
+    left:2px;
+    bottom: -75%;
+}
+
+#texto-flamengo{
+    position: absolute; top: 109%; left: 16%; transform: translate(-50%, -50%);
+    width: 25%;
+}
+
+#cruzeiro {
+    width: 30%;
+    border-radius: 20px;
+    border: 10px solid black;
+    height: -15%;
+    position:absolute;
+    right: -0%;
+    bottom: -75%;
+}
+
+#texto-cruzeiro{
+    position: absolute; top: 109%; left: 84%; transform: translate(-50%, -50%);
+    width: 25%;
+}
+
+#fluminense {
+    width: 30%;
+    border-radius: 20px;
+    border: 10px solid black;
+    height: -15%;
+    position:absolute;
+    right: 34%;
+    bottom: -75%;
+}
+
+#texto-fluminense{
+    position: absolute; top: 109%; left: 50%; transform: translate(-50%, -50%);
+    width: 29%;
+}
+
+#botafogo {
+    width: 30%;
+    border-radius: 20px;
+    border: 10px solid black;
+    height: -15%;
+    position:absolute;
+    left: 3px;
+    bottom: -150%;
+}
+
+#texto-botafogo {
+    position: absolute; top: 184%; left: 16%; transform: translate(-50%, -50%);
+    width: 27%;
+}
+
+#timao {
+    width: 30%;
+    border-radius: 20px;
+    border: 10px solid black;
+    height: -15%;
+    position:absolute;
+    right: 34%;
+    bottom: -150%;
+}
+
+#texto-timao {
+    position: absolute; top: 184%; left: 50%; transform: translate(-50%, -50%);
+    width: 22%;
+}
+
+#saopaulo {
+    width: 30%;
+    border-radius: 20px;
+    border: 10px solid black;
+    height: -15%;
+    position:absolute;
+    right: -0%;
+    bottom: -150%;
+}
+
+#texto-sp {
+    position: absolute; top: 184%; left: 84%; transform: translate(-50%, -50%);
+    width: 25%;
+}
+
+#seleçao {
+    width: 50%;
+    border-radius: 20px;
+    border: 10px solid black;
+    height: -15%;
+    position:absolute;
+    right: 24%;
+    bottom: -268%;
+}
+
+#texto-seleçao1 {
+    position: absolute; top: 270%; left: 50%; transform: translate(-50%, -50%);
+    width: 40%;
+}
+
+#texto-seleçao2 {
+    position: absolute; top: 260%; left: 50%; transform: translate(-50%, -50%);
+    width: 99%;
+}
+
+
+
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: black;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }

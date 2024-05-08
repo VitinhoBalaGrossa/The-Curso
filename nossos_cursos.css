@@ -1,0 +1,119 @@
+body {
+background-color: green;
+}
+
+h1 {
+  background-color:black
+}
+header {
+    background: green
+}
+
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: black;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #585555}
+  
+  .button:active {
+    background-color: #585555;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  div {
+
+   margin-left: 35%;
+   margin-right: 35%;
+   
+
+  }
+
+  #ultra_T {
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 20px; ;
+  }
+
+  body {
+    background-color: green;
+    color: white;
+  
+}
+
+.relógios{
+  display:inline-block;
+  width: 45%;
+  margin-right: 800px;
+  
+}
+
+.imagens{
+  width: 100%;
+  display: inline-block;
+}
+
+
+#protótipo {
+  border-radius: 20px;
+  width: 60%;
+  border-radius: 20px;
+  border: 10px solid black
+  
+}
+
+#recalibrado {
+  border-radius: 20px;
+  width: 45%;
+  border-radius: 20px;
+  border: 10px solid black
+  
+}
+
+#superomni {
+  border-radius: 20px;
+  width: 45%;
+  border-radius: 20px;
+  border: 10px solid black
+  
+}
+
+#definitivo {
+  border-radius: 20px;
+  width:45%;
+  border-radius: 20px;
+  border: 10px solid black
+  
+}
+
+#bio {
+  border-radius: 20px;
+  width: 45%;
+  border-radius: 20px;
+  border: 10px solid black
+  
+}
+
+#feedback{
+  margin-bottom: 10%;
+  width: 65%;
+  margin-left: 35%;
+  border-radius: 50px;
+
+}
+
+footer {
+  font-size: larger;
+}
